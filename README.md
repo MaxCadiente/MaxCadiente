@@ -1,5 +1,5 @@
 ## Hi there 👋
-![HTML](https://img.shields.io/badge/HTML-5-orange)
+![Profile Banner](https://github.com/MaxCadiente/MaxCadiente/blob/main/banner.jpg)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 <!--
 **MaxCadiente/MaxCadiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
