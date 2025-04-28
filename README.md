@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm currently working through **The Odin Project** to learn full-stack web development while pursuing a Bachelor's degree in Management Information Systems (MIS).
 
-![Profile Picture](https://github.com/MaxCadiente/MaxCadiente/raw/main/IMG_0164.JPG)
+<img src="https://github.com/MaxCadiente/MaxCadiente/raw/main/IMG_0164.JPG" width="150"/>
 
 ---
 
@@ -48,22 +48,4 @@ Feel free to explore and let me know if you have any questions or suggestions!
 Feel free to check out my skills!
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Ruby](https://img.shields.io/badge/Ruby-2.7-red)
-
----
-
-## Fun Fact 🤓
-
-When I'm not coding, I love to **explore new tech trends**, **dirt bike riding**, and **hiking** in nature!
-
----
-
-## Current Focus 🔭
-
-Right now, I’m focusing on completing the **Ruby on Rails** path of **The Odin Project**, while working on side projects to further develop my full-stack skills.
-
----
-
-Feel free to reach out to me if you'd like to collaborate or chat about tech! 😊
+![CSS](https://
