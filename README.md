@@ -8,8 +8,6 @@ Welcome to my GitHub profile!
 
 Welcome to my GitHub profile! I'm currently working through **The Odin Project** to learn full-stack web development while pursuing a Bachelor's degree in Management Information Systems (MIS).
 
-![Profile Picture](https://github.com/MaxCadiente/MaxCadiente/raw/main/IMG_0164.JPG)
-
 ---
 
 ## About Me 🚀
