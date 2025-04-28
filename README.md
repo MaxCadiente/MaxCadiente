@@ -1,5 +1,13 @@
-## Hi there 👋
-![My Profile Image](https://github.com/MaxCadiente/MaxCadiente/raw/main/IMG_0164.JPG)
+# Hi, I'm Max! 👋
+
+Welcome to my GitHub profile!
+
+<img src="https://github.com/MaxCadiente/MaxCadiente/raw/main/IMG_0164.JPG" width="300"/>
+
+## About Me
+I'm currently pursuing my Bachelor's degree in Management Information Systems, while working through The Odin Project full-stack Ruby on Rails path.
+
+Feel free to check out my projects!
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 <!--
 **MaxCadiente/MaxCadiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
